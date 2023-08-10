@@ -1,3 +1,5 @@
+# Importação biblioteca geração números aleatórios
+
 import random
 
 
